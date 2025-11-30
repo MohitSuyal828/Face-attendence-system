@@ -18,7 +18,7 @@ ENCODINGS_FILE = 'face_encodings.pkl'
 # DeepFace settings - using VGG-Face model for accuracy
 FACE_MODEL = 'VGG-Face'  # Accurate and reliable
 DISTANCE_METRIC = 'cosine'
-RECOGNITION_THRESHOLD = 0.4  # Lower = stricter
+RECOGNITION_THRESHOLD = 0.6  # Balanced threshold (lower = stricter, higher = more lenient)
 
 # Ensure directories exist
 os.makedirs(STUDENT_PHOTOS_DIR, exist_ok=True)
