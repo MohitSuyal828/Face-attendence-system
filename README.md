@@ -267,8 +267,7 @@ Contributions are welcome! Feel free to:
 
 ## Author
 
-**PiyushJimiwal**  
-GitHub: [@PiyushJimiwal](https://github.com/PiyushJimiwal)
+**Mohit Suyal**  
 
 ---
 
